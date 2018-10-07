@@ -1,1 +1,3 @@
-# pr
+### A short lesson on statistics ###
+
+We take the example of determining the death toll...
